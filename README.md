@@ -6,7 +6,7 @@ Project Structure
 
 - includes/section-one.php, section-two.php, section-conditional.php: Separate sections included via get_template_part.
 
-- assets/js/scripts.js: Script that dynamically updates the <h1> content.
+- assets/js/scripts.js: Script that dynamically updates the "<h1>" content.
 
 - style.css: Main stylesheet containing required WordPress theme metadata.
 
@@ -18,7 +18,7 @@ Implemented Features
 
 - Scripts and styles properly enqueued.
 
-- JavaScript script that dynamically modifies the <h1> element.
+- JavaScript script that dynamically modifies the "<h1>" element.
 
 - Conditional content for guest users implemented.
 
